@@ -1,6 +1,6 @@
 # 🚀 Hey! Nice to meet you.
 
-I'm `Jordan Walker`, an application developer passionate about creating interesting interactive experiences. I like automating, designing, and using code to solve hard problems. I am a Strong Advocate for clean code that's easy to understand.
+I'm `Jordan Walker`, an application developer passionate about creating interesting interactive experiences. I like automating, designing, and using code to solve hard problems. I am a Strong Advocate for clean code that's easy to understand and test.
 
 <a href="https://www.linkedin.com/in/jordan-walker-85246458/"><img src="https://img.shields.io/badge/Connect-Linkedin-0a66c2.svg"></a>
 <a href="https://jordanwalker.dev"><img src="https://img.shields.io/badge/Connect-Website-1f2933.svg"></a>
